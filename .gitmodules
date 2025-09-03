@@ -1,0 +1,10 @@
+[submodule "exchanger_data_analysis"]
+	path = exchanger_data_analysis
+	url = https://github.com/Kuchaaar/Exchanger_Data_Analysis.git
+[submodule "exchanger_mobile"]
+	path = exchanger_mobile
+	url = https://github.com/Kuchaaar/Exchanger_Mobile.git
+[submodule "exchanger_java"]
+	path = exchanger_java
+	url = https://github.com/Kuchaaar/ExchangerApp.git
+	branch = engineering
